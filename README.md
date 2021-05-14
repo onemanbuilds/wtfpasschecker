@@ -1,5 +1,5 @@
 # WTFP4ss Checker
- Simple tool to check the validity of the account.<br/>
+ Simple tool to check the validity of an account.<br/>
 
 # Features
  - Useragent rotation.<br/>
