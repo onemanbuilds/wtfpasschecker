@@ -1,4 +1,4 @@
-# wtfpasschecker
+# WTFP4ss Checker
  Simple tool to check the validity of the account.<br/>
 
 # Features
